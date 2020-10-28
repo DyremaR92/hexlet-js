@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/DyremaR92/hexlet-js/issues"
   },
-  "homepage": "https://github.com/DyremaR92/hexlet-js#readme"
+  "homepage": "https://github.com/DyremaR92/hexlet-js#readme",
+  "dependencies": {
+    "prettier": "^2.1.2"
+  }
 }
